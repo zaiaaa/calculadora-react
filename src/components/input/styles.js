@@ -7,20 +7,16 @@ export const InputContainer = styled.div`
     display: flex;
     align-items: center;
     justify-content: flex-start;
-
     input {
         width: 100%;
         height: 100%;
-        background-color: #AAAAFF;
+        background-color: #101820;
         color: white;
         border: 0;
 
-        font-size: 24px;
-        font-family: 'Roboto';
-
+        font-size: 2.5rem;
+        font-family: 'Roboto', sans-serif;
         padding: 0 1rem;
-
-
     }
 
 `
